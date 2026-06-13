@@ -1,4 +1,4 @@
-# Awesome Typewriter, Fonts & SVG Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Typography, Fonts & SVG Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome typewriter effects, font resources, and SVG icon libraries/tools across various programming languages and frameworks, with a strong focus on open-source solutions and graphics programming.
 
