@@ -1,10 +1,9 @@
 # Awesome Typography, Fonts & SVG Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome typewriter effects, font resources, and SVG icon libraries/tools across various programming languages and frameworks, with a strong focus on open-source solutions and graphics programming.
+A curated list of awesome typography resources, font libraries, and SVG icon tools across various programming languages and frameworks, with a strong focus on open-source solutions and graphics programming.
 
 ## Contents
 
-- [Typewriter Effects](#typewriter-effects)
 - [Fonts & Typography](#fonts--typography)
 - [SVG Icons](#svg-icons)
 - [Graphics Programming & Generative Typography](#graphics-programming--generative-typography)
@@ -12,49 +11,6 @@ A curated list of awesome typewriter effects, font resources, and SVG icon libra
   - [Creative Coding & WebGL Typography](#creative-coding--webgl-typography)
   - [Procedural SVG & Vector Scripting](#procedural-svg--vector-scripting)
 - [Contributing](#contributing)
-
----
-
-## Typewriter Effects
-
-Libraries that simulate the visual effect of text being typed out on a screen.
-
-### JavaScript / TypeScript
-* [TypeIt](https://typeitjs.com/) - The most versatile animated typing utility on the planet.
-* [Typed.js](https://github.com/mattboldt/typed.js) - A JavaScript typing animation library.
-* [iType.js](https://github.com/a-lucas/iType.js) - A vanilla JavaScript typing animation library without dependencies.
-* [TheaterJS](https://github.com/GabinAureche/TheaterJS) - A typing effect mimicking human behavior.
-* [t-writer.js](https://github.com/ChrisCavs/t-writer.js) - A native text typewriter effect without dependencies.
-
-### React
-* [react-type-animation](https://github.com/maxeth/react-type-animation) - A React component to animate typing text.
-* [react-typing-effect](https://github.com/iamhosseindhv/react-typing-effect) - A UI component for React to type text.
-* [typewriter-effect](https://github.com/tameemafi/typewriter-effect) - A simple react component for adding a cool typewriter effect to any project.
-* [react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes of JavaScript.
-
-### Vue
-* [vue-typewriter](https://github.com/drewjbartlett/vue-typewriter) - A Vue.js component for typing text.
-* [vue-typed-js](https://github.com/Orlandster/vue-typed-js) - A Vue.js wrapper for Typed.js.
-* [vue-typer](https://github.com/cngu/vue-typer) - Vue component that simulates a user typing, selecting, and erasing text.
-
-### Angular
-* [ngx-typed-js](https://github.com/Orlandster/ngx-typed-js) - An Angular wrapper for Typed.js.
-
-### CSS
-* [CSS Typewriter Effect](https://css-tricks.com/snippets/css/typewriter-effect/) - CSS Tricks guide to creating typewriter effects purely with CSS animations.
-* [Typewriter CSS](https://github.com/LeaVerou/typewriter) - A neat trick to create a typewriter effect with 100% CSS by Lea Verou.
-
-### Python
-* [Rich](https://github.com/Textualize/rich) - Rich text and beautiful formatting in the terminal.
-* [tqdm](https://github.com/tqdm/tqdm) - While mainly for progress bars, can be paired with simple `time.sleep()` loops for terminal typewriter text.
-
-### Go
-* [pterm](https://github.com/pterm/pterm) - A modern Go module to beautify console output, which includes a built-in interactive TextPrinter for typewriter effects.
-
-### Mobile (Flutter / iOS / Android)
-* [animated_text_kit (Flutter)](https://pub.dev/packages/animated_text_kit) - A flutter package which contains a collection of cool text animations, including Typewriter.
-* [GhostTypewriter (iOS)](https://github.com/wibosco/GhostTypewriter) - A UIView subclass that adds a typing animation effect to your text.
-* [HTextView (Android)](https://github.com/hanks-zyh/HTextView) - An Android text view library with many text animation effects.
 
 ---
 
